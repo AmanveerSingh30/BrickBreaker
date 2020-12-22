@@ -1,0 +1,48 @@
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.BrickBreakerForm.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PaddleBallImages.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\Assignments\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PowerImages.resources
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.BrickBreakerForm.resources
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PaddleBallImages.resources
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PowerImages.resources
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\353382138\Documents\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.BrickBreakerForm.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PaddleBallImages.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PowerImages.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe.config
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\bin\Debug\BrickBreaker.pdb
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csprojAssemblyReference.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.BrickBreakerForm.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PaddleBallImages.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.PowerImages.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.Properties.Resources.resources
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.GenerateResource.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.csproj.CoreCompileInputs.cache
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.exe
+C:\Users\devin.LAPTOP-5QGTBDU9\Documents\School\Grade 12\Computer Science\BrickBreaker-20201112T134713Z-001-20201112T172819Z-001\BrickBreaker-20201112T134713Z-001\BrickBreaker\BrickBreaker\obj\Debug\BrickBreaker.pdb
